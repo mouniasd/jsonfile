@@ -1,0 +1,154 @@
+{
+    "id": 1,
+    "name": "cuicui contre coin-coin",
+    "label": "main-d’œuvre certainement",
+    "chefEtablissement": {
+        "id": 1,
+        "nom": "collègue",
+        "prenom": "durer tandis que du fait que",
+        "dateNaissance": "2024-01-28",
+        "adresse": "sitôt que"
+    },
+    "children": [
+        {
+            "id": 1,
+            "name": "toc-toc bof tant",
+            "label": "obliger",
+            "chefDepartement": {
+                "id": 1,
+                "nom": "collègue",
+                "prenom": "durer tandis que du fait que",
+                "dateNaissance": "2024-01-28",
+                "adresse": "sitôt que"
+            },
+            "salles": [
+                {
+                    "id": 1,
+                    "name": "cocorico triangulaire",
+                    "label": "biathlète",
+                    "lits": null
+                },
+                {
+                    "id": 2,
+                    "name": "crac pin-pon",
+                    "label": "peindre lors de",
+                    "lits": null
+                }
+            ],
+            "services": [
+                {
+                    "id": 1,
+                    "name": "guide",
+                    "label": "autour de",
+                    "personnels": [
+                        {
+                            "id": 1,
+                            "nom": "collègue",
+                            "prenom": "durer tandis que du fait que",
+                            "dateNaissance": "2024-01-28",
+                            "adresse": "sitôt que"
+                        },
+                        {
+                            "id": 2,
+                            "nom": "cot cot à la merci prononcer",
+                            "prenom": "parce que spécialiste",
+                            "dateNaissance": "2024-01-29",
+                            "adresse": "autour de arrière"
+                        },
+                        {
+                            "id": 3,
+                            "nom": "en face de secouriste porte-parole",
+                            "prenom": "étant donné que gens afin de",
+                            "dateNaissance": "2024-01-29",
+                            "adresse": "là-haut"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "autour psitt derrière",
+                    "label": "franchir",
+                    "personnels": []
+                },
+                {
+                    "id": 3,
+                    "name": "absolument touriste quand",
+                    "label": "depuis quasiment",
+                    "personnels": []
+                },
+                {
+                    "id": 4,
+                    "name": "secours que",
+                    "label": "pointer",
+                    "personnels": []
+                },
+                {
+                    "id": 5,
+                    "name": "vivre",
+                    "label": "espiègle cot cot",
+                    "personnels": []
+                },
+                {
+                    "id": 6,
+                    "name": "lors solitaire attribuer",
+                    "label": "laver",
+                    "personnels": []
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "bien que modeler à cause de",
+            "label": "traîner",
+            "chefDepartement": null,
+            "salles": [],
+            "services": []
+        },
+        {
+            "id": 3,
+            "name": "comme",
+            "label": "au défaut de",
+            "chefDepartement": {
+                "id": 2,
+                "nom": "cot cot à la merci prononcer",
+                "prenom": "parce que spécialiste",
+                "dateNaissance": "2024-01-29",
+                "adresse": "autour de arrière"
+            },
+            "salles": [],
+            "services": []
+        },
+        {
+            "id": 4,
+            "name": "ouch",
+            "label": "lectorat de sorte que",
+            "chefDepartement": null,
+            "salles": [],
+            "services": []
+        },
+        {
+            "id": 5,
+            "name": "raide",
+            "label": "vu que",
+            "chefDepartement": null,
+            "salles": [],
+            "services": []
+        },
+        {
+            "id": 6,
+            "name": "aussi avant que",
+            "label": "partenaire bè",
+            "chefDepartement": null,
+            "salles": [],
+            "services": []
+        },
+        {
+            "id": 7,
+            "name": "descendre refuser administration",
+            "label": "équipe pauvre au prix de",
+            "chefDepartement": null,
+            "salles": [],
+            "services": []
+        }
+    ]
+}
